@@ -22,5 +22,5 @@ Peershare was created with a strong philosophy to uphold ethical practices and t
 
 Peershare avoids this completely by first, aiming to never be a profitable business (not everything needs to scale) and secondly, it is simply the vehicle to transfer data, it has no way of storing or hosting file data for any long or short term.
 
-## Is it secure?
-
+## Is this secure?
+Peershare employs industry standard SSL over HTTPS and WSS for all network requests. For all communications over WebRTC...
