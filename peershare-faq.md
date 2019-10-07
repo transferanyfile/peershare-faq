@@ -1,5 +1,5 @@
 # Peershare
-Transfer any file you want to anyone you want.
+Securely transfer any file you want to anyone you want.
 
 ## What is this?
 A simple web application that allows you to share any file from your device, safely and securely with others across the internet. 
